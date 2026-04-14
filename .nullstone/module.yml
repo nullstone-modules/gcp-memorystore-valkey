@@ -1,0 +1,16 @@
+org_name: nullstone
+name: gcp-memorystore-valkey
+friendly_name: Valkey
+description: Creates a GCP Memory Store using Valkey
+category: datastore
+subcategory: ""
+provider_types:
+    - gcp
+platform: redis
+subplatform: memorystore
+type: ""
+appCategories: []
+is_public: true
+tool_name: opentofu
+include: []
+source_url: https://github.com/nullstone-modules/gcp-memorystore-valkey
